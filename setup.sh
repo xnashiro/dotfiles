@@ -26,6 +26,9 @@ fi
 brew bundle
 echo
 
+# GPG
+# set -x GPG_TTY (tty)
+
 mackup restore
 echo
 
