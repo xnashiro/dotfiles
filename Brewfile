@@ -47,7 +47,7 @@ cask 'google-japanese-ime'
 cask 'karabiner-elements'
 cask 'omnipresence'
 cask 'onyx'
-cask 'screenflow'
+# cask 'screenflow'
 
 # Dev
 # cask 'coda'
