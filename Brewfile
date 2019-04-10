@@ -50,7 +50,7 @@ cask 'onyx'
 cask 'screenflow'
 
 # Dev
-cask 'coda'
+# cask 'coda'
 cask 'dash'
 cask 'docker'
 cask 'iterm2'
