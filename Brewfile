@@ -20,9 +20,11 @@ brew 'jq'
 brew 'mackup'
 brew 'mas'
 brew 'nodebrew'
+brew 'openssl'
 brew 'pinentry-mac'
 brew 'python'
 brew 'rbenv'
+brew 'ricty, args: ["with-powerline"]
 brew 'rmtrash'
 brew 'ruby-build'
 brew 'telnet'
@@ -89,6 +91,7 @@ cask 'fujitsu-scansnap-manager-ix100'
 # App Store applications
 mas '1Password 7', id: 1333542190
 mas 'Airmail 3', id: 918858936
+mas 'Amphetamine', id: 937984704
 mas 'BetterSnapTool', id: 417375580
 mas 'CotEditor', id: 1024640650
 mas 'Day One', id: 1055511498
@@ -96,18 +99,19 @@ mas 'Evernote', id: 406056744
 mas 'Fantastical 2', id: 975937182
 mas 'GarageBand', id: 682658836
 mas 'iMovie', id: 408981434
-mas 'iStat Mini', id: 927292435
+mas 'iStat Menus', id: 1319778037
 mas 'JustFocus', id: 1142151959
 mas 'Keynote', id: 409183694
 mas 'LINE', id: 539883307
+mas 'Memory Diag', id: 748212890
 mas 'Microsoft Excel', id: 462058435
 mas 'Microsoft OneNote', id: 784801555
 mas 'Microsoft PowerPoint', id: 462062816
 mas 'Microsoft Word', id: 462054704
 mas 'MindNode', id: 1289197285
 mas 'Numbers', id: 409203825
-mas 'OmniFocus', id: 1346203938
-mas 'OmniOutliner', id: 1142578772
+mas 'OmniFocus 3', id: 1346203938
+mas 'OmniOutliner 5', id: 1142578772
 mas 'Pages', id: 409201541
 mas 'Pixelmator', id: 407963104
 mas 'PopClip', id: 445189367
