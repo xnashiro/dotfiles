@@ -24,7 +24,7 @@ brew 'openssl'
 brew 'pinentry-mac'
 brew 'python'
 brew 'rbenv'
-brew 'ricty, args: ["with-powerline"]
+brew 'ricty', args: ["with-powerline"]
 brew 'rmtrash'
 brew 'ruby-build'
 brew 'telnet'
