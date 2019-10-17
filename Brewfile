@@ -1,5 +1,6 @@
 tap 'caskroom/cask'
 tap 'heroku/brew'
+tap 'sanemat/font'
 
 brew 'awscli'
 brew 'bash'
