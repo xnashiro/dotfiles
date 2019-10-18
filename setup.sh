@@ -30,6 +30,9 @@ echo
 # set -x GPG_TTY (tty)
 
 mackup restore
+
+# fisher add jethrokuan/fzf
+
 echo
 
 echo "Finish!"
