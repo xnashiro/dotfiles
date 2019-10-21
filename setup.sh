@@ -32,6 +32,9 @@ echo
 mackup restore
 
 # fisher add jethrokuan/fzf
+# To use nvm
+# fisher add FabioAntunes/fish-nvm
+# fisher add edc/bass
 
 echo
 
