@@ -9,7 +9,6 @@ brew 'circleci'
 brew 'ctop'
 brew 'curl'
 brew 'fish'
-brew 'font-ricty-diminished'
 brew 'fzf'
 brew 'ghq'
 brew 'git'
@@ -55,9 +54,9 @@ cask 'onyx'
 # cask 'screenflow'
 
 # Dev
-# cask 'coda'
 cask 'dash'
 cask 'docker'
+cask 'font-ricty-diminished'
 cask 'iterm2'
 cask 'java'
 cask 'jetbrains-toolbox'
@@ -81,6 +80,7 @@ cask 'quicklook-csv'
 cask 'qlcolorcode'
 
 # Entertaiment
+cask 'sonic-pi'
 cask 'spotify'
 cask 'steam'
 cask 'vlc'
@@ -88,7 +88,6 @@ cask 'vlc'
 # drivers
 tap 'homebrew/cask-drivers'
 cask 'sony-ps4-remote-play'
-cask 'fujitsu-scansnap-manager-ix100'
 
 # App Store applications
 mas '1Password 7', id: 1333542190
