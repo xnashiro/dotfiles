@@ -3,7 +3,6 @@ tap 'homebrew/cask-fonts'
 
 brew 'awscli'
 brew 'bash'
-brew 'chromedriver'
 brew 'circleci'
 brew 'ctop'
 brew 'curl'
