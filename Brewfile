@@ -1,4 +1,3 @@
-tap 'caskroom/cask'
 tap 'heroku/brew'
 tap 'homebrew/cask-fonts'
 
