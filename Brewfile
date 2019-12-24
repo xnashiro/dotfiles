@@ -92,6 +92,7 @@ cask 'sony-ps4-remote-play'
 mas '1Password 7', id: 1333542190
 mas 'Airmail 3', id: 918858936
 mas 'Amphetamine', id: 937984704
+mas 'Bear', id: 1091189122
 mas 'BetterSnapTool', id: 417375580
 mas 'CotEditor', id: 1024640650
 mas 'Day One', id: 1055511498
@@ -120,6 +121,7 @@ mas 'Reeder 3', id: 880001334
 mas 'Skitch', id: 425955336
 mas 'Slack', id: 803453959
 mas 'SnippetsLab', id: 1006087419
+mas 'Spark', id: 1176895641
 mas 'The Unarchiver', id: 425424353
 mas 'TogglDesktop', id: 957734279
 mas 'Tweetbot', id: 557168941
