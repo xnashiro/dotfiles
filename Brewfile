@@ -33,6 +33,7 @@ brew 'tig'
 brew 'tmux'
 brew 'tree'
 brew 'wget'
+brew 'yarn'
 
 # Util
 cask 'alfred'
