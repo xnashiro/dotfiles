@@ -72,6 +72,9 @@ if !(type node > /dev/null 2>&1); then
     . $HOME/.profile
 fi
 
-brew cleanup
+# restore config
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    mackup restore
+fi
 
 echo "Setup finished!"
