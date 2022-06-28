@@ -1,0 +1,13 @@
+# Mac OS metadata files
+.DS_Store
+
+# Log files
+*.log
+
+# Runtime data
+*.pid
+
+# Vim backup files
+*~
+*.swp
+*.swo
