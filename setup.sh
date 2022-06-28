@@ -6,6 +6,7 @@ if [[ "$OSTYPE" == "linux-gnu" ]]; then
     sudo apt update
     sudo apt upgrade
     sudo apt install -y build-essential procps curl file git gcc zlib1g-dev
+    sudo apt autoremove
 fi
 
 # set dotflies
@@ -71,9 +72,6 @@ if !(type node > /dev/null 2>&1); then
     . $HOME/.profile
 fi
 
-
-# clean up...
-sudo apt autoremove
 brew cleanup
 
 echo "Setup finished!"
