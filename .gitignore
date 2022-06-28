@@ -11,3 +11,5 @@
 *~
 *.swp
 *.swo
+
+Brewfile.lock.json
