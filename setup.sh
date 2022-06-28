@@ -2,9 +2,11 @@
 
 set -eu
 
-sudo apt update
-sudo apt upgrade
-sudo apt install -y build-essential procps curl file git gcc zlib1g-dev
+if [[ "$OSTYPE" == "linux-gnu" ]]; then
+    sudo apt update
+    sudo apt upgrade
+    sudo apt install -y build-essential procps curl file git gcc zlib1g-dev
+fi
 
 # set dotflies
 DOTPATH=$HOME/dotfiles
