@@ -1,0 +1,24 @@
+[user]
+  name = Daisuke Nashiro
+  email = nashirox@gmail.com
+[color]
+  ui = true
+[core]
+  excludesfile = ~/.gitignore # globalな.gitignoreの指定
+  autocrlf = input             # CRLFを自動変換
+  editor = vim
+  quotepath = false
+[pull]
+	ff = only # fast-forwardでマージできる状況でなければマージを行わずfetch だけに留める
+[push]
+	default = current
+[alias]
+  s   = status
+  st  = status
+  ss  = status -s
+  sh  = show
+  so  = remote show origin
+  ft  = fetch
+  # comit
+  ad  = add
+  c   = commit
