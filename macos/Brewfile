@@ -1,5 +1,7 @@
+tap "homebrew/cask-fonts"
 brew "mackup"
 brew "mas"
+cask "font-source-code-pro "
 
 # App Store applications
 mas 'Amphetamine', id: 937984704
